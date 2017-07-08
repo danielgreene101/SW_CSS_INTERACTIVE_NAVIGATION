@@ -1,0 +1,9 @@
+a:hover {
+    color: aqua;
+    background-color: bisque;
+}
+
+a:active {
+    padding-right: 5px;
+    padding-left: 5px;
+}
